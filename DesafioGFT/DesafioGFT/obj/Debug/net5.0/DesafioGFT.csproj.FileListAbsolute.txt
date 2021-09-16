@@ -1,0 +1,16 @@
+C:\Users\JoaoPedro\source\repos\DesafioGFT\DesafioGFT\bin\Debug\net5.0\DesafioGFT.exe
+C:\Users\JoaoPedro\source\repos\DesafioGFT\DesafioGFT\bin\Debug\net5.0\DesafioGFT.deps.json
+C:\Users\JoaoPedro\source\repos\DesafioGFT\DesafioGFT\bin\Debug\net5.0\DesafioGFT.runtimeconfig.json
+C:\Users\JoaoPedro\source\repos\DesafioGFT\DesafioGFT\bin\Debug\net5.0\DesafioGFT.runtimeconfig.dev.json
+C:\Users\JoaoPedro\source\repos\DesafioGFT\DesafioGFT\bin\Debug\net5.0\DesafioGFT.dll
+C:\Users\JoaoPedro\source\repos\DesafioGFT\DesafioGFT\bin\Debug\net5.0\ref\DesafioGFT.dll
+C:\Users\JoaoPedro\source\repos\DesafioGFT\DesafioGFT\bin\Debug\net5.0\DesafioGFT.pdb
+C:\Users\JoaoPedro\source\repos\DesafioGFT\DesafioGFT\obj\Debug\net5.0\DesafioGFT.csproj.AssemblyReference.cache
+C:\Users\JoaoPedro\source\repos\DesafioGFT\DesafioGFT\obj\Debug\net5.0\DesafioGFT.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JoaoPedro\source\repos\DesafioGFT\DesafioGFT\obj\Debug\net5.0\DesafioGFT.AssemblyInfoInputs.cache
+C:\Users\JoaoPedro\source\repos\DesafioGFT\DesafioGFT\obj\Debug\net5.0\DesafioGFT.AssemblyInfo.cs
+C:\Users\JoaoPedro\source\repos\DesafioGFT\DesafioGFT\obj\Debug\net5.0\DesafioGFT.csproj.CoreCompileInputs.cache
+C:\Users\JoaoPedro\source\repos\DesafioGFT\DesafioGFT\obj\Debug\net5.0\DesafioGFT.dll
+C:\Users\JoaoPedro\source\repos\DesafioGFT\DesafioGFT\obj\Debug\net5.0\ref\DesafioGFT.dll
+C:\Users\JoaoPedro\source\repos\DesafioGFT\DesafioGFT\obj\Debug\net5.0\DesafioGFT.pdb
+C:\Users\JoaoPedro\source\repos\DesafioGFT\DesafioGFT\obj\Debug\net5.0\DesafioGFT.genruntimeconfig.cache
